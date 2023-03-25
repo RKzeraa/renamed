@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="renamed:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/renamed_jar</output-path>
+    <root id="archive" name="renamed.jar">
+      <element id="module-output" name="renamed" />
+    </root>
+  </artifact>
+</component>
